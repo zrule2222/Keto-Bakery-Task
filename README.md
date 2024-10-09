@@ -1,10 +1,10 @@
 # Keto Bakery Task
 
-This project was created for qualidying for the JS developer position at Keto Bakery
+This project was created for qualidying for the JS developer position at Keto Bakery.
 
 ## Requirements for the project
 
-Before attempting to run the project make sure that your machine has [Node](https://nodejs.org/en/download/prebuilt-installer) and NPM installed
+Before attempting to run the project make sure that your machine has [Node](https://nodejs.org/en/download/prebuilt-installer) and NPM installed.
 
 ## Installing project dependencies
 
